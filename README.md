@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vitorialskw
 - 👀 I’m interested in aerospace, flight dynamics and optimization
 - 🌱 I’m studying Mechanical Engineering
-- 📫 You can reach me on LinkedIn...
+- 📫 You can reach me on LinkedIn www.linkedin.com/in/vitória-sousa-694905274
 
 <!---
 vitorialskw/vitorialskw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
