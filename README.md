@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vitorialskw
-- 👀 I’m interested in aerospace, flight dynamics and optimization
 - 🌱 I’m studying Mechanical Engineering
 - 📫 You can reach me on LinkedIn www.linkedin.com/in/vitória-sousa-694905274
 
